@@ -1,3 +1,5 @@
+This repo contains the codes I and a team of 30 collaborators from 20+ countries worked on
+
 Cancer Treatment Cost Prediction
 This project aims to develop a machine learning model that predicts the cost of cancer treatment for patients based on medical records, treatment details, and patient demographics. The model helps in understanding cost drivers, improving cost estimates, and providing financial insights for both healthcare providers and patients.
 
